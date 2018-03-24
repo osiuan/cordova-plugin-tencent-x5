@@ -1,0 +1,1 @@
+# cordova-plugin-tencent-x5
