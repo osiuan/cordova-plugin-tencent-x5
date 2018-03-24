@@ -1,0 +1,12 @@
+{
+  "name": "cordova-plugin-tencent-x5",
+  "version": "1.0.0",
+  "cordova": {
+    "id": "cordova-plugin-tencent-x5",
+    "platforms": [
+      "android"
+    ]
+  },
+  "author": "",
+  "license": "Apache 2.0"
+}
